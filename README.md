@@ -11,7 +11,7 @@ Click any of the images below to view the readme and the codes
   </a>
   Single Page CV
 </p>
-<p align="right">
+<p align="left" font-size="50px">
   <a href='./Roadmap projects/Frontend projects/Basic HTML Website/'>
     <img width="100%" src="./Roadmap projects/assets/basic html website.png" alt="basic html website" />
   </a>
