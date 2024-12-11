@@ -6,10 +6,10 @@
 Click any of the images below to view the readme and the codes
 
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Single Page CV/'>
+  <a href='./Frontend projects/Single Page CV/'>
     <img width="48%" src="./assets/single page cv.png" alt="single page cv" />
   </a>
-  <a href='/Frontend Projects/Basic HTML Website/'>
+  <a href='./Frontend projects/Basic HTML Website/'>
     <img width="48%" src="./assets/basic html website.png" alt="basic html website" />
   </a>
   <a href='./Frontend projects/Personal Portfolio/'>
