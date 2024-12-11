@@ -15,10 +15,12 @@ Click any of the images below to view the readme and the codes
   <a href='./Roadmap projects/Frontend projects/Basic HTML Website/'>
     <img width="48%" src="./Roadmap projects/assets/basic html website.png" alt="basic html website" />
   </a>
+  basic html website
 </p>
 <p align="center">
   <a href='./Roadmap projects/Frontend projects/Personal Portfolio/'>
     <img width="48%" src="./Roadmap projects/assets/Personal Portfolio.png" alt="Personal Portfolio" />
   </a>
+  Personal Portfolio
 </p>
 
