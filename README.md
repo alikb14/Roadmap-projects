@@ -1,21 +1,18 @@
 # Front-end Projects of [Roadmap.sh](https://roadmap.sh/)
 
 ## Projects List
-[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
-Click any of the images below to view the readme and live demo of the project:
+Click any of the images below to view the readme and the codes
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <div style="text-align: left; width: 48%;">
-    <a href="./Roadmap projects/Frontend projects/Single Page CV/">
-      <img src="./Roadmap projects/assets/single page cv.png" alt="Single Page CV" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
-    </a>
-    <p style="font-weight: bold; margin-top: 8px;">Single Page CV</p>
-  </div>
-  <div style="text-align: left; width: 48%;">
-    <a href="/Roadmap projects/Frontend projects/Basic HTML Website/">
-      <img src="./Roadmap projects/assets/basic html website.png" alt="Basic HTML Website" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
-    </a>
-    <p style="font-weight: bold; margin-top: 8px;">Basic HTML Website</p>
-  </div>
-</div>
+<p align="left">
+  <a href='./Roadmap projects/Frontend projects/Single Page CV/'>
+    <img width="48%" src="./assets/single page cv.png" alt="single page cv" />
+  </a>
+  <a href='/Frontend Projects/Basic HTML Website/'>
+    <img width="48%" src="./assets/basic html website.png" alt="basic html website" />
+  </a>
+  <a href='./Frontend projects/Personal Portfolio/'>
+    <img width="48%" src="./assets/Personal Portfolio.png" alt="Personal Portfolio" />
+  </a>
+</p>
