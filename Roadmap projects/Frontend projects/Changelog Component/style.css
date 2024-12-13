@@ -81,14 +81,24 @@ h2, .date{
     margin-top: 60px;
     margin-bottom: 60px;
  }
- .button button{
+ .button button {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
     width: 250px;
     height: 45px;
-    border-radius: 15px;
     background-color: antiquewhite;
     border: solid 1px black;
-    font-weight: bold;
- }
+    border-radius: 15px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.button button:active {
+    transform: translateY(2px);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
  @media screen and (max-width:584px) and (min-width:321px){
     body{
         padding: 0 10px;
