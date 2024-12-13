@@ -1,0 +1,102 @@
+body{
+    width: 99%;
+    height: 100%;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 1.5px gray;
+    border-radius: 40px;
+    font-family:"Roboto","Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    background-color: rgb(63, 63, 63);
+    color: antiquewhite;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin:50PX 0;
+}
+h1{
+    font-size: 3rem;   
+    margin-bottom: 10px;
+    letter-spacing: 0.2rem;
+    font-weight: 900;
+}
+h2, .date{
+    font-size: 1rem;
+    color:rgba(250, 235, 215, 0.555);
+    letter-spacing: 0.1rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    height: 90%;
+}
+.event{
+    display: grid;
+    grid-template-columns: auto 10px auto;
+    grid-template-rows: repeat(7,auto);
+    width: fit-content;
+    max-width: 600px;
+}
+.line-dot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+ .date{
+    min-width: 162px;
+    text-align: center;
+    margin-right: 50px;
+ }
+ .text{
+    /* width: auto; */
+    max-width: fit-content;
+    margin-left: 30px;
+ }
+ .line{
+    width: 2px;
+    height: 108%;
+    background-color: antiquewhite;
+    position: absolute;
+    top:-18px;
+ }
+ #dot1,#dot2,#dot3,#dot4,#dot5,#dot6,#dot7 {
+    position: absolute;
+ }
+ .dot{
+    background-color: antiquewhite;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+ }
+ .button{
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+ }
+ .button button{
+    width: 250px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    border: solid 1px black;
+    font-weight: bold;
+ }
+ @media screen and (max-width:584px) and (min-width:321px){
+    body{
+        padding: 0 10px;
+    }    
+    .line{
+        height: 102%;
+    }
+    .date{
+        margin-right: 10px;
+    }
+ }
