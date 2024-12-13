@@ -11,7 +11,7 @@ Click any of the images below to view the readme and the codes
   </a>
   Single Page CV
 </p>
-<p align="left" font-weight="bold">
+<p align="left">
   <a href='./Roadmap projects/Frontend projects/Basic HTML Website/'>
     <img width="100%" src="./Roadmap projects/assets/basic html website.png" alt="basic html website" />
   </a>
@@ -22,5 +22,11 @@ Click any of the images below to view the readme and the codes
     <img width="100%" src="./Roadmap projects/assets/Personal Portfolio.png" alt="Personal Portfolio" />
   </a>
   Personal Portfolio
+</p>
+<p align="left">
+  <a href='./Roadmap projects/Frontend projects/Changelog Component/'>
+    <img width="100%" src="./Roadmap projects/assets/Changelog Component.png" alt="Personal Portfolio" />
+  </a>
+  Changelog Component
 </p>
 
