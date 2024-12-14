@@ -54,11 +54,6 @@ h2, .date{
     text-align: center;
     margin-right: 50px;
  }
- .text{
-    /* width: auto; */
-    max-width: fit-content;
-    margin-left: 30px;
- }
  .line{
     width: 2px;
     height: 108%;
@@ -74,6 +69,11 @@ h2, .date{
     width: 15px;
     height: 15px;
     border-radius: 50%;
+ }
+ .text{
+    /* width: auto; */
+    max-width: fit-content;
+    margin-left: 30px;
  }
  .button{
     width: 100%;
