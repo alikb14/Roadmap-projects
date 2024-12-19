@@ -1,7 +1,7 @@
 # Front-end Projects of [Roadmap.sh](https://roadmap.sh/)
 
 ## Projects List
-[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website), [Changelog Component](https://roadmap.sh/projects/changelog-component)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website), [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 
 Click any of the images below to view the readme and the codes
 
@@ -29,4 +29,9 @@ Click any of the images below to view the readme and the codes
   </a>
   Changelog Component
 </p>
-
+<p align="left">
+  <a href='./Roadmap projects/Frontend projects/Testimonial Cards/'>
+    <img width="100%" src="./Roadmap projects/assets/Testimonial Cards.png" alt="Testimonial Cards" />
+  </a>
+  Testimonial Cards
+</p>
