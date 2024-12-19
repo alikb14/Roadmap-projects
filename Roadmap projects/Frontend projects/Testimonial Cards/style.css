@@ -280,8 +280,12 @@ body{
         margin-right: unset;
      }
      .stars{
-        padding: 5px 0 5px 0;
+        padding: 8px 0 8px 0;
      }
+     .stars img{
+        width: 17px;
+        height: 17px;
+    }
      .jackie-img-query{
         display: unset;
         width: 101.51px;
@@ -293,7 +297,7 @@ body{
      }
      .jackie-job{
         font-size: 1rem;
-        padding: 5px 0 5px 0;
+        padding: 8px 0 8px 0;
      }
      .jackie-comment p{
         font-size: 1rem;
