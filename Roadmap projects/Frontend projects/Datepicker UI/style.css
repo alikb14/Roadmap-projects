@@ -24,7 +24,7 @@ body{
     background-color: var(--calendar);
     border-radius: 20px;
     padding: 10px;
-    box-shadow: #1B4332 0 0 10px;
+    box-shadow: #1b433273 0 0 30px 5px;
 }
 #calendar-icon{
     width: 30px;
