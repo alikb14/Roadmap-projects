@@ -6,37 +6,38 @@
 Click any of the images below to view the readme and the codes
 
 <p align="left">  
-  <a href='./Roadmap projects/Frontend projects/Single Page CV/'>
+  <a href='./Roadmap projects/Frontend projects/01 - Single Page CV/'>
     <img width="100%" src="./Roadmap projects/assets/single page cv.png" alt="single page cv" />
   </a>
   Single Page CV
+  [Live Demo](https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/01%20-%20Single%20Page%20CV/)
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Basic HTML Website/'>
+  <a href='./Roadmap projects/Frontend projects/02 - Basic HTML Website/'>
     <img width="100%" src="./Roadmap projects/assets/basic html website.png" alt="basic html website" />
   </a>
   basic html website
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Personal Portfolio/'>
+  <a href='./Roadmap projects/Frontend projects/03 - Personal Portfolio/'>
     <img width="100%" src="./Roadmap projects/assets/Personal Portfolio.png" alt="Personal Portfolio" />
   </a>
   Personal Portfolio
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Changelog Component/'>
+  <a href='./Roadmap projects/Frontend projects/04 - Changelog Component/'>
     <img width="100%" src="./Roadmap projects/assets/Changelog Component.png" alt="Personal Portfolio" />
   </a>
   Changelog Component
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Testimonial Cards/'>
+  <a href='./Roadmap projects/Frontend projects/05 - Testimonial Cards/'>
     <img width="100%" src="./Roadmap projects/assets/Testimonial Cards.png" alt="Testimonial Cards" />
   </a>
   Testimonial Cards
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/Datepicker UI/'>
+  <a href='./Roadmap projects/Frontend projects/06 - Datepicker UI/'>
     <img width="100%" src="./Roadmap projects/assets/Datepicker UI.png" alt="Datepicker UI" />
   </a>
   Datepicker UI
