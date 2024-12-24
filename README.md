@@ -9,7 +9,7 @@ Click any of the images below to view the readme and the codes
   <a href='./Roadmap projects/Frontend projects/01 - Single Page CV/'>
     <img width="100%" src="./Roadmap projects/assets/single page cv.png" alt="single page cv" />
   </a>
-  Single Page CV
+  Single Page CV / 
     <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/01%20-%20Single%20Page%20CV/">Live Demo</a>
 </p>
 <p align="left">
