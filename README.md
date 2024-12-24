@@ -16,29 +16,34 @@ Click any of the images below to view the readme and the codes
   <a href='./Roadmap projects/Frontend projects/02 - Basic HTML Website/'>
     <img width="100%" src="./Roadmap projects/assets/basic html website.png" alt="basic html website" />
   </a>
-  basic html website
+  basic html website / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/02%20-%20Basic%20HTML%20Website/">Live Demo</a>
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/03 - Personal Portfolio/'>
     <img width="100%" src="./Roadmap projects/assets/Personal Portfolio.png" alt="Personal Portfolio" />
   </a>
-  Personal Portfolio
+  Personal Portfolio / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/03%20-%20Personal%20Portfolio/">Live Demo</a>
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/04 - Changelog Component/'>
     <img width="100%" src="./Roadmap projects/assets/Changelog Component.png" alt="Personal Portfolio" />
   </a>
-  Changelog Component
+  Changelog Component / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/04%20-%20Changelog%20Component/">Live Demo</a>
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/05 - Testimonial Cards/'>
     <img width="100%" src="./Roadmap projects/assets/Testimonial Cards.png" alt="Testimonial Cards" />
   </a>
-  Testimonial Cards
+  Testimonial Cards / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/05%20-%20Testimonial%20Cards/">Live Demo</a>
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/06 - Datepicker UI/'>
     <img width="100%" src="./Roadmap projects/assets/Datepicker UI.png" alt="Datepicker UI" />
   </a>
-  Datepicker UI
+  Datepicker UI / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/06%20-%20Datepicker%20UI/">Live Demo</a>
 </p>
