@@ -1,0 +1,214 @@
+:root{
+    --body-background:#343A40;
+    --fieldset:#ADB5BD;
+    --legend-text: #212529;
+    --left:#212529;
+    --input:#d2dae2;
+    --placeholder:#343a407c  ;
+    --button-background:#343A40;
+    --button-text:#F8F9FA;
+    --progress-background:#343A40;
+    --progress-text:#343A40;
+    --progress-line:#E9ECEF;
+    --checklist:#d2dae2;
+}
+body{
+    font-family: 'Argentum Sans', sans-serif;
+    background-color: var(--body-background);
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    width: 710px;
+}
+fieldset{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 500px;
+    column-gap: 30px;
+    border-radius: 35px;
+    padding: 30px;
+    background-color: var(--fieldset);
+    box-sizing:content-box;
+    border: none;
+}
+legend{
+    color: var(--legend-text);
+    font-size: 18px;
+}
+.left, .right{
+    display: flex;
+    flex-direction: column;
+}
+.left{
+    /* justify-content: space-evenly; */
+    color: var(--left);
+}
+.left div{
+    margin:10px 5px;
+}
+.right{
+    /* margin-top: 50px; */
+    text-align: center;
+    align-items: center;
+}
+.right > span{
+    margin: 25px 0;
+    font-size: 23px;
+    color: #212529;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    
+}
+label input{
+    margin: 7px 0;
+}
+input{
+    border-radius: 10px;
+    /* border: 1px #343A40 solid; */
+    border: none;
+    padding: 12px;
+    background-color: var(--input);
+    box-shadow: inset #343A40 1px 1px 5px;
+    line-height: 16px;
+}
+input::placeholder{
+    font-size: 16px;
+    color: var(--placeholder);
+
+}
+input:focus{
+    outline: #6C757D 1px solid;
+}
+.checkbox-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 !important;
+}
+.checkbox{
+    appearance: none;
+    width: fit-content;
+    border-radius: 5px;
+    padding: unset;
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+}
+.checkbox:checked{
+    background-color: #6C757D;
+}
+.checkbox-container span{
+    font-size: 12px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px !important;
+}
+button{
+    border-radius: 10px;
+    border: 1px black solid;
+    padding: 8px;
+    width: 75%;
+    border: none;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--button-text);
+    background-color: var(--button-background);
+    transition: transform ease, box-shadow ease, background-color 0.3s ease;
+}
+button:active{
+    transform: translateY(1px);
+    box-shadow: #ADB5BD 0px 0px 10px;
+}
+button:hover{
+    background-color: #212529;
+}
+.progress-bar{
+    font-family: 'Wasted Vindey';                                          
+    border-left: 7px solid #343A40;
+    border-top: 7px solid #343A40;
+    border-right: 3px solid gray;
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: var(--circle);
+    box-shadow: inset #343A40 1px 1px 5px;
+}
+.checklist{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    line-height: 320%;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: left;
+    width: 80%;
+    min-width: 194px;
+    font-size: 16px;
+    background-color: var(--checklist);
+    box-shadow: inset #343A40 1px 1px 5px;
+}
+.checklist span del{
+    color:gray ;
+}
+@media screen and (max-width:565px) and (min-width:320px) {
+    .container{
+        align-items: unset;
+    }
+    fieldset{
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+    .button-container{
+        margin-top: 20px !important;
+    }
+    .progress-bar{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: fit-content;
+        font-size: 15px;
+        border: none;
+        border-radius: 20px;
+        margin: 30px 0;
+        background-color: var(--progress-background);
+        justify-content: unset;
+        color: var(--progress-text);
+        outline: none;
+    }
+    .progress{
+        width: 65%;
+        height: 100%;
+        background-color: var(--progress-line);
+        border-radius: 20px;
+        margin: 9px 5px 9px 0;
+        outline: none;
+    }
+    .progress-bar span{
+        position: absolute;
+        left: 48%;
+    }
+    .checklist{
+        height: unset;
+    }
+    .right > span{
+        margin: 50px;
+        display: none;
+    }
+}

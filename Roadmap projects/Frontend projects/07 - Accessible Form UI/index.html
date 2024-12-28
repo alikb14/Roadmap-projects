@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Accessible Form UI</title>
+</head>
+<body>
+    <div class="container">
+        <form action="#">
+            <fieldset>
+                <!-- <legend>Accessible Form UI</legend> -->
+                <div class="left">
+                    <div>
+                        <label for="name"> Full Name
+                            <input type="text" id="name" placeholder="What should we call you?" required aria-required="true" title="Please enter your name">
+                        </label>
+                    </div>
+                    <div>
+                        <label for="email">Email
+                            <input type="email" id="email" placeholder="john@doe.com" required aria-required="true" aria-invalid="true" title="Please enter your email">
+                        </label>
+                    </div>
+                    <div>
+                        <label for="password">Enter password
+                            <input type="password" id="password" placeholder="xxxxxxxx" required aria-required="true" aria-invalid="true" title="Please set a password">
+                            <div class="checkbox-container">
+                                <input class="checkbox" type="checkbox" aria-checked="false" aria-label="password is hidden"><span>Show password</span>
+                            </div>
+                        </label>
+                    </div>
+                    <div>
+                        <label for="confirmation">Confirm Password
+                            <input type="password" id="confirmation" placeholder="xxxxxxxx" required aria-required="true" aria-invalid="true" title="Please confirm your password">
+                            <div class="checkbox-container">
+                                <input class="checkbox" type="checkbox" aria-checked="false" aria-label="password is hidden"><span>Show password</span>
+                            </div>
+                        </label>
+                    </div>
+                    <div class="button-container">
+                        <button type="submit">Update Profile</button>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="progress-bar">
+                        <div class="progress"></div><span>65%</span>
+                    </div>
+                    <span>Profile Completeness</span>
+                    <div class="checklist">
+                        <span><del>Create Account</del></span>
+                        <span><del>Update Roadmap Progress</del></span>
+                        <span><del>Setup Public Profile</del></span>
+                        <span>Complete your first project</span>
+                        <span>Invite your Friends</span>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>
