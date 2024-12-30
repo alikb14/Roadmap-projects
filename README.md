@@ -56,7 +56,7 @@ Click any of the images below to view the readme and the codes
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/08 - Image Grid Layout'>
-    <img width="100%" src="./Roadmap projects/assets/Image Grid Layout.png" alt="Image Grid Layout" />
+    <img width="100%" src="./Roadmap projects/assets/Image Grid Layout.jpg" alt="Image Grid Layout" />
   </a>
   Image Grid Layout / 
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/08%20-%20Image%20Grid%20Layout/">Live Demo</a>
