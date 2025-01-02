@@ -63,7 +63,7 @@ Click any of the images below to view the readme and the codes
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/09 - Tooltip UI'>
-    <img width="100%" src="./Roadmap projects/assets/Image Grid Layout.png" alt="Tooltip UI" />
+    <img width="100%" src="./Roadmap projects/assets/09 - Tooltip UI.png" alt="Tooltip UI" />
   </a>
   Tooltip UI / 
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/09%20-%20Tooltip%20UI">Live Demo</a>
