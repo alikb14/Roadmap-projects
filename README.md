@@ -82,4 +82,10 @@ Click any of the images below to view the readme and the codes
   Cookie Consent / 
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/11%20-%20Cookie%20Consent/">Live Demo</a>
 </p>
-
+<p align="left">
+  <a href='./Roadmap projects/Frontend projects/12 - Restricted Textarea'>
+    <img width="100%" src="./Roadmap projects/Frontend projects/assets/Restricted Textarea.png" alt="Restricted Textarea" />
+  </a>
+  Restricted Textarea / 
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/12Restricted%20Textarea/">Live Demo</a>
+</p>

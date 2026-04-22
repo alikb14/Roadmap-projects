@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-top: rgb(239, 114, 103);
+    --bg-mid: rgb(208, 127, 143);
+    --bg-bottom: rgb(154, 152, 221);
+
+    --panel-bg: rgba(255, 255, 255, 0.22);
+    --panel-border: rgba(106, 96, 104, 0.75);
+
+    --text-color: #2b2330;
+    --placeholder: rgba(74, 68, 78, 0.72);
+
+    --btn-bg: rgba(255, 255, 255, 0.25);
+    --btn-border: rgba(66, 58, 69, 0.95);
+
+    --glow: rgba(255, 219, 75, 0.8);
+    --glow-soft: rgba(255, 219, 75, 0.28);
+}
+
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.hero {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg,
+            var(--bg-top) 0%,
+            #e87976 8%,
+            #d7858b 42%,
+            #c78cb0 62%,
+            #b292c9 78%,
+            var(--bg-bottom) 100%);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-wrap {
+    transform: translateY(-18px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.textarea-box {
+    width: 590px;
+    height: 205px;
+    border-radius: 28px;
+    border: 1.5px solid var(--panel-border);
+    background: var(--panel-bg);
+    position: relative;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+    overflow: hidden;
+}
+
+textarea {
+    width: 100%;
+    height: 100%;
+    resize: none;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 18px 18px 42px 18px;
+    color: var(--text-color);
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: "Courier New", monospace;
+}
+
+textarea::placeholder {
+    color: var(--placeholder);
+}
+
+.counter {
+    position: absolute;
+    right: 18px;
+    bottom: 10px;
+    font-size: 18px;
+    color: #201622;
+    font-family: "Georgia", serif;
+    user-select: none;
+}
+
+.clear-btn {
+    min-width: 105px;
+    height: 44px;
+    border-radius: 14px;
+    border: 1.4px solid var(--btn-border);
+    background: var(--btn-bg);
+    color: #231b26;
+    font-size: 20px;
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.clear-btn:hover {
+    background: rgba(255, 255, 255, 0.34);
+}
+
+.clear-btn:active {
+    transform: scale(0.98);
+}
+.max{
+    border: 1px solid red;
+    color: red;
+}
+
+@media (max-width: 760px) {
+
+    .textarea-box {
+        width: min(92vw, 590px);
+        height: 190px;
+    }
+
+    .counter {
+        font-size: 16px;
+    }
+
+    .clear-btn {
+        min-width: 96px;
+        height: 42px;
+        font-size: 18px;
+    }
+}
