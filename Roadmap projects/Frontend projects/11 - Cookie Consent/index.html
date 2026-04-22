@@ -4,24 +4,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="styles.css">
-    <title>Cookie Consent</title>
+    <link href="https://fonts.cdnfonts.com/css/butter-chicken" rel="stylesheet">
+
+
+    <title>Dynamic Tabs</title>
 </head>
 
 <body>
-    <div class="container">
-        <div class="cookie">
-            <h2>Cookie</h2>
-            <p>This site uses cookies to offer you a better browsing experience. Find our more on <a href="#">how we use
-                    cookies and
-                    how you can change your settings.</a></p>
-            <div class="buttons">
-                <button class="accept">Accept</button>
-                <button class="reject">Reject</button>
+
+    <header>
+        <img id="logo" src="./assets/logo.png" alt="logo">
+        <div>
+            <span>Home</span>
+            <span>Menu</span>
+            <span>About us</span>
+            <span>Contact us</span>
+        </div>
+    </header>
+    <main class="p-1">
+        <div class="main-sec">
+            <div>
+                <span>Start a coffee subscription today!</span>
+                <p>
+                    Give the gift of a coffee subscription, or make sure you never run out of coffee at home.
+                </p>
+                <button id="subscribe-button" type="submit">Subscribe Now</button>
+            </div>
+            <div>
+                <img id="moka-img" src="./assets/moka pot.png" alt="moka pot image">
             </div>
         </div>
-    </div>
-    <script src="./scripts.js"></script>
+        <div class="cookie-container">
+            <div class="cookie">
+                <img id="cookie-img" src="./assets/cookie.png" alt="cookie-logo">
+                <p>By clicking "Accept all cookies", you agree this <br> website can store cookies on your device and
+                    <br>
+                    disclose
+                    information in accordance with our <a class="cookie-policy" href=" https://example.com/">Cookie
+                        Policy</a></p>
+                <div class="cookie-buttons">
+                    <button class="reject">Reject all cookies</button>
+                    <button class="accept">Accept all cookies</button>
+                </div>
+            </div>
+        </div>
+    </main>
 </body>
+<script src="script.js"></script>
 
 </html>
