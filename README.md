@@ -1,7 +1,7 @@
 # Front-end Projects of [Roadmap.sh](https://roadmap.sh/)
 
 ## Projects List
-[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website), [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards), [Datepicker UI](https://roadmap.sh/projects/datepicker-ui), [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui), [Image Grid Layout](https://roadmap.sh/projects/image-grid), [Tooltip UI](https://roadmap.sh/projects/tooltip-ui), [Tabs](https://roadmap.sh/projects/simple-tabs), [Cookie Consent](https://roadmap.sh/projects/cookie-consent)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website), [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards), [Datepicker UI](https://roadmap.sh/projects/datepicker-ui), [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui), [Image Grid Layout](https://roadmap.sh/projects/image-grid), [Tooltip UI](https://roadmap.sh/projects/tooltip-ui), [Tabs](https://roadmap.sh/projects/simple-tabs), [Cookie Consent](https://roadmap.sh/projects/cookie-consent), [Restricted Textarea](https://roadmap.sh/projects/Restricted-Textarea)
 
 Click any of the images below to view the readme and the codes
 
@@ -87,5 +87,5 @@ Click any of the images below to view the readme and the codes
     <img width="100%" src="./Roadmap projects/Frontend projects/assets/Restricted Textarea.png" alt="Restricted Textarea" />
   </a>
   Restricted Textarea / 
-  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/12Restricted%20Textarea/">Live Demo</a>
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/12%20-%20Restricted%20Textarea/">Live Demo</a>
 </p>
