@@ -77,7 +77,7 @@ Click any of the images below to view the readme and the codes
 </p>
 <p align="left">
   <a href='./Roadmap projects/Frontend projects/11 - Cookie Consent'>
-    <img width="100%" src="./Roadmap projects/Frontend projects/assets/cookie.png" alt="Cookie Consent" />
+    <img width="100%" src="./Roadmap projects/Frontend projects/assets/cookie consent.png" alt="Cookie Consent" />
   </a>
   Cookie Consent / 
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/11%20-%20Cookie%20Consent/">Live Demo</a>
