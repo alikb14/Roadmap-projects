@@ -90,8 +90,8 @@ Click any of the images below to view the readme and the codes
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/12%20-%20Restricted%20Textarea/">Live Demo</a>
 </p>
 <p align="left">
-  <a href='./Roadmap projects/Frontend projects/13 - Accordian'>
-    <img width="100%" src="./Roadmap projects/Frontend projects/assets/Accordian.png" alt="Restricted Textarea" />
+  <a href='./Roadmap projects/Frontend projects/13 - Accordion'>
+    <img width="100%" src="./Roadmap projects/Frontend projects/assets/Accordian.png" alt="Accordian" />
   </a>
   Accordian / 
   <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/13%20-%20Accordion/">Live Demo</a>
