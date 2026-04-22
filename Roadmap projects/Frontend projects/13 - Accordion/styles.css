@@ -1,0 +1,39 @@
+body {
+    background: #f3f3f3;
+    padding: 40px;
+}
+
+.accordion {
+    max-width: 500px;
+    margin: auto;
+}
+
+.item {
+    border-bottom: 1px solid #ccc;
+}
+
+.tab {
+    width: 100%;
+    text-align: left;
+    padding: 15px;
+    font-size: 18px;
+    background: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.tab:hover {
+    background: #f0f0f0;
+}
+
+.content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    background: #fafafa;
+    padding: 0 15px;
+}
+
+.content p {
+    padding: 15px 0;
+}
