@@ -1,7 +1,7 @@
 # Roadmap Projects
 # Live Demo
 
-You can view the live version of the Age Calculator project at [Live URL](https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/14%20-%20Age%20Calculator/).
+You can view the live version of the Age Calculator project at [Live URL](https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/14%20-%20Age%20calculator/).
 
 ## Age Calculator
 ### You are required to develop an age calculator with the following features:

@@ -101,5 +101,5 @@ Click any of the images below to view the readme and the codes
     <img width="100%" src="./Roadmap projects/Frontend projects/assets/Age Calculator.png" alt="Age calculator" />
   </a>
   Age Calculator / 
-  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/14%20-%20Age%20Calculator/">Live Demo</a>
+  <a href="https://alikb14.github.io/Roadmap-projects/Roadmap%20projects/Frontend%20projects/14%20-%20Age%20calculator/">Live Demo</a>
 </p>

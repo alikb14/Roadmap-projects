@@ -1,6 +1,3 @@
-import datepicker from "js-datepicker";
-import { DateTime } from "luxon";
-import 'js-datepicker/dist/datepicker.min.css'
 const submitBtn = document.getElementById('calculate')
 const result = document.querySelector('.result')
 const dateInput = document.getElementById('date-input')
@@ -25,8 +22,8 @@ function calculateAge() {
     result.style.color = 'black'
 
     // Calculating the age using the Loxun package
-    const selected = DateTime.fromJSDate(selectedDate)
-    const now = DateTime.now()
+    const selected = luxon.DateTime.fromJSDate(selectedDate)
+    const now = luxon.DateTime.now()
     const diff = now.diff(selected, ["years", "months", "days"]).toObject()
 
     result.style.marginTop = '20px'
