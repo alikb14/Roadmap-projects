@@ -121,3 +121,11 @@ body {
   border-radius: 0 !important;
 
 }
+
+.qs-overlay {
+  background: var(--day);
+}
+
+.qs-overlay-year::placeholder {
+  color: var(--day-text);
+}
