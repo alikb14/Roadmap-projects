@@ -119,13 +119,13 @@ body {
 .qs-day {
   border-bottom: 2px solid black;
   border-radius: 0 !important;
-
+  
 }
 
 .qs-overlay {
-  background: var(--day);
+  background: var(--day) !important;
 }
 
 .qs-overlay-year::placeholder {
-  color: var(--day-text);
+  color: var(--day-text) !important;
 }
