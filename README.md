@@ -107,4 +107,5 @@ Click any of the images below to view the readme and the codes
   <a href='https://github.com/alikb14/Flash-cards-app'>
     <img width="100%" src="./Roadmap projects/Frontend projects/assets/flash cards.png" alt="Age calculator" />
   </a>
+  Flash cards
 </p>
